@@ -1,5 +1,5 @@
 # Learn to Code with Basketball 
-This learning is based on the Book **Learn to Code with Basektball** by Nathan Braun and few courses from Maven Analytics
+This learning is based on the Book **Learn to Code with Basektball** by Nathan Braun and few courses from Maven Analytics.
 I highly recommend the course to anyone interested learning about data science in combination with basketball. 
 
 ## What is Business Intelligence?
